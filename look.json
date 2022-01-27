@@ -1,0 +1,15 @@
+{
+  "kitname": "lvl 3 3 breitschwerte",
+  "Weapons/Spells": [
+    {
+      "name": "Cool Fireball",
+      "Roll": [["FIRE", 10],["FIRE", 10],["ICE", 6]],
+      "Extra":[["ICE", 2],["ICE", 2],["FIRE", 4]]
+    },
+    {
+      "name": "Double Edge Boomerang",
+      "Roll": [["RANGED", 10],["RANGED", 10]],
+      "Extra":[["MELEE", 4]]
+    }
+  ]
+}
